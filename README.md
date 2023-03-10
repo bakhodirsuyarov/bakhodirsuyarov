@@ -1,3 +1,4 @@
+![logo](https://github.com/bakhodirsuyarov/Geko-corp/blob/main/img/about-img/programming%20evolution.jpg)
 <h1 align="center">Hi 👋, I'm Bakhodir Suyarov</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
